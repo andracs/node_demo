@@ -1,0 +1,15 @@
+{
+  "author": "Marijn Haverbeke",
+  "name": "eloquent-javascript-robot",
+  "description": "Simulation of a package-delivery robot",
+  "version": "1.0.0",
+  "main": "run.js",
+  "dependencies": {
+    "dijkstrajs": "^1.0.1",
+    "random-item": "^1.0.0",
+    "ini":"^1.3.5",
+    "mz":"^2.7.0",
+    "mime":"^2.2.0"
+  },
+  "license": "ISC"
+}
